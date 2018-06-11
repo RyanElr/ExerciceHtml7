@@ -1,11 +1,12 @@
-.color1{
-  background-color: #2574A9 ;
+ul{
+  list-style-type: none;
 }
-
-.color2{
+.form1{
+  background-color: #2574A9;
+}
+.form2{
   background-color: #9A12B3;
 }
-
-.color3{
+.form3{
   background-color: #DB0A5B;
 }
